@@ -8,3 +8,7 @@ File is manually changed :)
 
 
 adding some more lines. checking the modified/staged/committed if possible here
+
+Line 10 is saved, line 12 not. let's see the difference
+I expect this file to be modified now
+prior to saving anything 
